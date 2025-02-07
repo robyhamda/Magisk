@@ -15,7 +15,7 @@
 - [General] Use a minimal libc to build static executables (`magiskinit` and `magiskboot`) for smaller sizes
 - [Core] Remove unnecessary mirror for magic mount
 - [Core] Update boot image detection logic to support more devices
-- [MagiskInit] Rewrite 2SI logic for injecting `magiskinit` as `init`
+- [MagiskInit] Rewrite 2SI logic for injecting ف`magiskinit` as `init`
 - [MagiskInit] Update preinit partition detection
 - [Zygisk] Update internal JNI hooking implementation
 - [MagiskPolicy] Preserve sepolicy config flag after patching
